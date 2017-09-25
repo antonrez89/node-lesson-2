@@ -1,4 +1,5 @@
 node_modules
 *.js
+!callback.js
 *.json
 !config.json
