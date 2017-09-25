@@ -2,5 +2,7 @@ node_modules
 *.js
 !callback.js
 !displayValue.js
+!promise.js
+!promisify.js
 *.json
 !config.json
