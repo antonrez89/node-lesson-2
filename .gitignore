@@ -1,8 +1,11 @@
+.idea
 node_modules
 *.js
 !callback.js
 !displayValue.js
 !promise.js
 !promisify.js
+!generators.js
+!async.js
 *.json
 !config.json
