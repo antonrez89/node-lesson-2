@@ -7,5 +7,6 @@ node_modules
 !promisify.js
 !generators.js
 !async.js
+!task-*
 *.json
 !config.json
